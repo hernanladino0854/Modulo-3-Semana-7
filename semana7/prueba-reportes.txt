@@ -1,0 +1,1 @@
+[{"id":1,"tipo":"Infrastructura","descripcion":"Daño en alumbrado"}] {"id":2,"tipo":"Ambiente","descripcion":"Acumulación de residuos"}]
